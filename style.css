@@ -1,0 +1,19 @@
+*{
+    font-family: "Playfair Display", serif;
+}
+nav{
+    background-color: rgb(190, 150, 42);
+}
+header{
+    background-image: url('https://t3.ftcdn.net/jpg/06/43/27/56/360_F_643275698_YhrfMbeAbR9CKL9zFl2UxXmYt29EWmff.jpg'); 
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+footer{
+    background-color: rgb(217, 170, 41);
+}
